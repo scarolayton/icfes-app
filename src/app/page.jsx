@@ -58,11 +58,10 @@ const Home = () => {
                     }
                 </header>
                 <section className='bg-slate-200 rounded-2xl h-full'>
-                  <h3 className='font-bold text-xl p-4'>Categories</h3>
-              
+                  <h3 className='font-bold text-xl p-4'>Categories </h3>
+                  <h4 className='font-bold text-base p-4'>Each time that u take a test you will get random and different questions</h4>
 
                   <Cards/>
-        
                 </section>
                 <Menu/>
               </>
