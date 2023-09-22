@@ -30,7 +30,7 @@ const Cards = () => {
     'color' : '#C29AEC'
    },{
     'id': 4,
-    'name': 'Social Science',
+    'name': 'Social-Science',
     'symbol' : <BsPerson/>,
     'color' : '#ECA6E1'
    },{
