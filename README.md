@@ -1,3 +1,13 @@
+## Icfes App
+The ICFES Trivia App is an engaging and educational web application designed to challenge and test users' knowledge on various subjects 
+      with questions provided by the ICFES (Instituto Colombiano para la Evaluación de la Educación).
+      This dynamic quiz platform was meticulously crafted using Next.js and Tailwind CSS, creating a seamless and responsive user experience. 
+      The app offers various quiz categories, each containing ICFES questions.  Users can create accounts or sign in to the app using their Google accounts. 
+      The app leverages the power of Supabase, a secure and scalable database, to store questions and user data.  The app maintains leaderboards that display the top users in 
+      terms of points and achievements  Built with Next.js, the app takes advantage of server-side rendering for enhanced performance. Tailwind CSS provides a streamlined and 
+      attractive user interface.
+      <br/>
+      
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
